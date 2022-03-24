@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1056,
+          "rightColumn": 1104,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -563,12 +563,12 @@
                           "key": "onClick"
                         }
                       ],
-                      "leftColumn": 13,
+                      "leftColumn": 51,
                       "dynamicBindingPathList": [],
                       "text": "intent",
                       "isDisabled": false,
                       "key": "jh9e3ymos8",
-                      "rightColumn": 25,
+                      "rightColumn": 63,
                       "isDefaultClickDisabled": true,
                       "widgetId": "e3nm6oibgi",
                       "isVisible": true,
